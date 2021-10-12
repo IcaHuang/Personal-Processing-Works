@@ -19,7 +19,7 @@ My own Processing experiments. Hope you like them!
 
 
 ### Mondrian
-<img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/Mondrian/keynote3.2021-10-03%2016_08_14.gif?raw=true" width="350" height="262" align="middle" />
+<img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/Mondrian/keynote3.2021-10-03%2016_08_14.gif?raw=true" width="500" height="437" align="middle" />
 
 ### rotatedRect1
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/rotatedRect1/sketch_190629b.gif?raw=true" width="500" height="525" align="middle" />
