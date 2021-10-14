@@ -7,6 +7,13 @@ My own Processing experiments. Hope you like them!
 
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/VJ%20experiment/Straight%20Fire%20Gang.gif?raw=true" width="500" height="525" align="middle" />
 
+### Particle_ChangeColor
+<img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/Particle_ChangeColor/sketch_200414a.2021-10-03%2016_18_22.gif?raw=true" width="500" height="400" align="middle" />
+
+### Particle_TransparentBack
+<img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/Particle_TransparentBack/sketch_200413b.gif?raw=true" width="500" height="400" align="middle" />
+
+
 ### fireworks 烟花
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/fireworks%20%E7%83%9F%E8%8A%B1/sketch_200419c_delay75.gif?raw=true" width="500" height="525" align="middle" />
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/fireworks%20%E7%83%9F%E8%8A%B1/sketch_200419b.gif?raw=true" width="500" height="525" align="middle" />
