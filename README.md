@@ -3,7 +3,7 @@
 My own Processing experiments. Hope you like them!
 
 ### VJ Experiment
-[version with sound🔗](https://weibo.com/tv/show/1034:4691512634834969?from=old_pc_videoshow)
+[version with sound🔗](https://weibo.com/7419902891/KCKkWh3s1)
 
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/VJ%20experiment/Straight%20Fire%20Gang.gif?raw=true" width="500" height="525" align="middle" />
 
