@@ -13,7 +13,6 @@ My own Processing experiments. Hope you like them!
 ### Particle_TransparentBack
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/Particle_TransparentBack/sketch_200413b.gif?raw=true" width="500" height="400" align="middle" />
 
-
 ### fireworks 烟花
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/fireworks%20%E7%83%9F%E8%8A%B1/sketch_200419c_delay75.gif?raw=true" width="500" height="525" align="middle" />
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/fireworks%20%E7%83%9F%E8%8A%B1/sketch_200419b.gif?raw=true" width="500" height="525" align="middle" />
@@ -24,6 +23,10 @@ My own Processing experiments. Hope you like them!
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/PurpleRectangles/test6.gif?raw=true" width="500" height="525" align="middle" />
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/PurpleRectangles/test7.gif?raw=true" width="500" height="525" align="middle" />
 
+
+### 2019.03.24 今日美术馆workshop maze
+
+<img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/2019.03.24%20%E4%BB%8A%E6%97%A5%E7%BE%8E%E6%9C%AF%E9%A6%86workshop/maze.gif?raw=true" width="500" height="528" align="middle" />
 
 ### Mondrian
 <img src="https://github.com/IcaHuang/Personal-Processing-Works/blob/main/Mondrian/keynote3.2021-10-03%2016_08_14.gif?raw=true" width="500" height="437" align="middle" />
