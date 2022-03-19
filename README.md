@@ -4,6 +4,8 @@
 
 My own Processing experiments. Hope you like them!
 
+Processing版本：3.5.4
+
 ### VJ Experiment
 [version with music from 直火帮🔗](https://weibo.com/7419902891/KCKkWh3s1)
 
